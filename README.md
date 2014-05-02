@@ -33,4 +33,4 @@ The script uses:
 
 Sample output:
 
-!(output/output.png)
+![Example](https://github.com/frica/youtube-contest/blob/master/output/output.png)
