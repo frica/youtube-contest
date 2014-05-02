@@ -33,4 +33,4 @@ The script uses:
 
 Sample output:
 
-!(output.png)
+!(output/output.png)
